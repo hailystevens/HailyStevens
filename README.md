@@ -4,11 +4,11 @@
 <img align="right" alt="cute" src="https://static.myfigurecollection.net/upload/pictures/2023/09/12/3751290.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hailystevens&label=Profile%20views&color=0e75b6&style=flat" alt="hailystevens" /> </p>
 
-- 🔭 I’m currently working on a Java bootcamp with [PerScholas](https://perscholas.org/)
+- 🎓 I recently completed a Java bootcamp with [PerScholas](https://perscholas.org/)
 
-- 🌱 I’m currently learning **Java, SQL, HTML/CSS**
+- 🌱 I’m currently building projects with **Java, SQL, and HTML/CSS**
 
-- 📫 How to reach me **Hailybellestevens@gmail.com**
+- 📫 You can reach me at **Hailybellestevens@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
