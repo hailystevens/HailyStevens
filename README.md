@@ -4,11 +4,9 @@
 <img align="right" alt="cute" src="https://static.myfigurecollection.net/upload/pictures/2023/09/12/3751290.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hailystevens&label=Profile%20views&color=0e75b6&style=flat" alt="hailystevens" /> </p>
 
-💻 Full-stack developer with a passion for building cool things and solving problems.  
-🎓 Recently graduated from a Java bootcamp at [PerScholas](https://perscholas.org/).  
-✨ Currently learning more about cloud computing and leveling up my skills in Java, Spring, and web dev.  
-🚀 Always up for a new challenge and love collaborating with others on fun projects!  
-🎮 Outside of coding, you’ll find me gaming or exploring new tech.  
+💻 Full-stack developer.  
+✨ Currently learning Networking and Security.  
+🚀 Always up for a new challenge and love collaborating with others on fun projects  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
