@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Haily </h1>
 <h2 align="center"> *•`.🫧 ☆✩°｡⋆⸜ 🎧✮💿 </h2>
-<h3 align="center">A passionate (aspiring) full stack developer from Virginia</h3>
+<h3 align="center">A passionate full stack developer from Virginia</h3>
 <img align="right" alt="cute" src="https://static.myfigurecollection.net/upload/pictures/2023/09/12/3751290.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hailystevens&label=Profile%20views&color=0e75b6&style=flat" alt="hailystevens" /> </p>
 
