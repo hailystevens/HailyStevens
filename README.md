@@ -1,21 +1,53 @@
-<h1 align="center">Hi, I'm Haily </h1>
+
+  <h1 align="center">Always building, always searching, always aware </h1>
 <h2 align="center"> *⋆☆✩⋆*⋆✮✮⋆*⋆☆✩⋆*⋆✮✮⋆*⋆☆✩⋆*⋆✮✮⋆* </h2>
-<h3 align="center">A passionate full stack developer from Virginia</h3>
-<img align="right" alt="cute" src="https://static.myfigurecollection.net/upload/pictures/2023/09/12/3751290.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hailystevens&label=Profile%20views&color=0e75b6&style=flat" alt="hailystevens" /> </p>
 
-💻 Full-stack developer.  
-✨ Currently learning Networking and Security.  
-🚀 Always up for a new challenge and love collaborating with others on fun projects  
+## Intro  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/hailystevens/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="haily stevens" height="30" width="40" /></a>
-</p>
+*⋆☆✩ **C-17 Systems Support Analyst** @ Boeing — supporting global technical documentation ecosystems  
+*⋆☆✩ **Cybersecurity & Information Assurance student** — studying digital forensics, OSINT, exploit analysis, penetration testing  
+*⋆☆✩ **Artist of systems and symbols** — weaving sacred aesthetics into code, docs, and labs  
+*⋆☆✩ **Survivor + self-parented** — hyper-aware, disciplined, and nonlinear in growth  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> </p>
+<img align="center" alt="cute" src="https://static.myfigurecollection.net/upload/pictures/2023/09/12/3751290.gif" width="max"> 
+
+---
+
+## Most days
+
+- Supporting global technical documentation ecosystems  
+- S1000D transformations  
+- Aerospace knowledge management  
+- Building scalable help systems and dashboards with clarity and precision  
+- Writing clean, modular docs
+ 
+---
+
+## Most Nights
+
+- Running a malware-tolerant home lab for ethical testing  
+- Practicing forensics on malicious systems  
+- Scraping, archiving, and tracking digital shadows  
+- Exploring exploits, dark tech, and edge-case systems 
+- Always learning where systems break, and how they heal  
+
+---
+
+## Tools
+
+- **Languages**: Python, PowerShell, SQL, HTML/CSS/JS  
+- **Systems**: GitLab, VMware Horizon, Oracle DB, SQL Server, Contenta CCMS, XPP  
+- **Cyber**: Wireshark, Nikto, forensic suites, archive OSINT methods  
+- **Creative**: Markdown, LaTeX, SVG, CSS — for when code must also be beautiful  
+
+---
+  
+## Every script, repo, and design is a reflection of:  
+
+- **Strength with grace**  
+- **Awareness without fear**  
+
+---
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hailystevens&show_icons=true&locale=en&layout=compact" alt="hailystevens" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hailystevens&show_icons=true&locale=en" alt="hailystevens" /></p>
